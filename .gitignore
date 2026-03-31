@@ -56,3 +56,6 @@ Thumbs.db
 # Project specific
 backups/
 /out/
+
+docker-compose.yml
+!docker-compose.yml.example
